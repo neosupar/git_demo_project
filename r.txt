@@ -1,0 +1,4 @@
+cat > "/tmp/log"
+
+access from the webserver
+access from the db server 
