@@ -3,4 +3,4 @@ cat > "/tmp/log"
 access from the webserver
 access from the db server
 access from the lb server
-access from the master server 
+access from the feat server 
