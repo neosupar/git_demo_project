@@ -1,1 +1,5 @@
-this is test from b2
+this is test from
+
+folowed by testing
+
+configuration management 
