@@ -1,4 +1,5 @@
 cat > "/tmp/log"
 
 access from the webserver
-access from the db server 
+access from the db server
+access from the lb server 
